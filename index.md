@@ -6,10 +6,11 @@ layout: base
 
 System Design Interview Resources
 
-## [All pages list](./all)
+## Introduction
+* [en](./en)
+* [zh](./zh)
 
-## [Productivity](./Productivity/)
-
-## [OS](./OS/)
+## Discord Group for finding partner
+[Mock System Design Interview](https://discord.gg/WHjarsrCvK) - Finding Partners here
 
 ## [System Design Interview](https://SystemDesignInterview.github.io)
