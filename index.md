@@ -7,10 +7,12 @@ layout: base
 System Design Interview Resources
 
 ## Introduction
-* [en](./en)
-* [zh](./zh)
+* [en resource](./en)
+* [中文資源](./zh)
 
 ## Discord Group for finding partner
-[Mock System Design Interview](https://discord.gg/WHjarsrCvK) - Finding Partners here
+[DC - Mock System Design Interview](https://discord.gg/WHjarsrCvK) - Finding Partners here
 
-## [System Design Interview](https://SystemDesignInterview.github.io)
+## Mock Interview
+see examples:
+[My Mock](./Mock/)
