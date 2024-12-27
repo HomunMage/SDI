@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole SystemDesignInterview, values
+# This config file is meant for settings that affect your whole SDI, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
@@ -22,9 +22,9 @@ title: HomunMage
 email: homun@posetmage.com
 url: https://homun.posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
 
-description: SystemDesignInterview
-baseurl: /SystemDesignInterview # the subpath of your site, e.g. /SystemDesignInterview
-repository: homun/SystemDesignInterview
+description: System Design Interview
+baseurl: /SDI # the subpath of your site, e.g. /SDI
+repository: homun/SDI
 
 exclude:
   - Productivity/Converter/EPUB/book1/

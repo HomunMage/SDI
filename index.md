@@ -14,5 +14,5 @@ System Design Interview Resources
 [DC - Mock System Design Interview](https://discord.gg/WHjarsrCvK) - Finding Partners here
 
 ## Mock Interview
-see examples:
+see examples and prompt:
 [My Mock](./Mock/)
