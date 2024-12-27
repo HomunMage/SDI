@@ -16,7 +16,7 @@ This modern approach balances technical expertise with problem-solving and teamw
 * System Design Interview – An insider's guide by Alex Xu 
 * Designing Data-Intensive Applications by Martin Kleppmann 
 
-Many people recommend the Grokking the System Design Interview course as an introduction. Although this course is relatively simple, it is the best beginner material, as it repeatedly guides students through the essential steps of a system design interview.
+Many people recommend the **Grokking the System Design Interview** course as an introduction. Although this course is relatively simple, it is the best beginner material, as it repeatedly guides students through the essential steps of a system design interview.
 
 Alex's book is a must-read, as it helps readers understand that system design is an iterative process, preventing them from falling into the "problem-solving mindset" of jumping straight into writing a complex architecture.
 

@@ -24,7 +24,7 @@ url: https://homun.posetmage.com # the base hostname & protocol for your site, e
 
 description: System Design Interview
 baseurl: /SDI # the subpath of your site, e.g. /SDI
-repository: homun/SDI
+repository: homunmage/SDI
 
 exclude:
   - Productivity/Converter/EPUB/book1/
