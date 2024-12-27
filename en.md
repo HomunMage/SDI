@@ -33,4 +33,4 @@ Other resources, such as [InfoQ](https://www.youtube.com/@infoq), are also great
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [Grokking the System Design Interview](https://github.com/sharanyaa/grok_sdi_educative)
 
-## [中文資源](/SystemDesignInterview/zh)
+## [中文資源](./zh)
